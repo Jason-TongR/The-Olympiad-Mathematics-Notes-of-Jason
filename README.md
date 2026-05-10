@@ -10,7 +10,6 @@ All Olympiad Math Notes have been uploaded ! enjoy it !
 
 All Available notes:
 
------------------------------------------------------------------------------------------------------
 Course name                                  
 ----------------------------------------------------------------------------------------------------- 
 1.Complex Number and Vector and Plane Geometry                  
