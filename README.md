@@ -6,7 +6,7 @@ All notes are in the "Releases" page ! Welcome !
 
 **All Olympiad Math Notes have been uploaded ! enjoy it !**
 ----------------------------------------------------------------------------------------------------
-**This repositories has been archived !**
+**This repository has been archived !**
 
 
 ----------------------------------------------------------------------------------------------------- 
